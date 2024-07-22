@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "urlprefix",
+    "type": "java.lang.String",
+    "description": "Prefisso che viene aggiunto in automatico davanti a tutte le mappature"
+  },
+  {
+    "name": "jwtduration",
+    "type": "long",
+    "description": "Durata in minuti del token"
+  }
+]}
